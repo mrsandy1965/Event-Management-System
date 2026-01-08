@@ -25,7 +25,7 @@ npm install
 
 Create `.env` file:
 ```
-PORT=5000
+PORT=5001
 MONGODB_URI=mongodb://localhost:27017/event-management
 ```
 
@@ -39,7 +39,7 @@ Run backend:
 npm run dev
 ```
 
-Backend runs on **http://localhost:5000**
+Backend runs on **http://localhost:5001**
 
 ### Frontend Setup
 
